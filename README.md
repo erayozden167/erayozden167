@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [baransemihguzel.com](baransemihguzel.com)
+- 👨‍💻 All of my projects are available at [erayozden.com](erayozden.com)
 
 - 💬 Ask me about **.NET Core and .NET MVC**
 
-- 📫 How to reach me **baransemih.2101@gmail.com**
+- 📫 How to reach me **erayozden167@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,6 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://www.buymeacoffee.com/baransemiht" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 
